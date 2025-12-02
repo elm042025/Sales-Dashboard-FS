@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Sales-Dashboard-FS.git
+git clone https://github.com/elm042025/Sales-Dashboard-FS
 cd Sales-Dashboard-FS
 ```
 
